@@ -88,7 +88,7 @@ h1 {
   font-weight: 700;
   letter-spacing: 0.015em;
 }
-h1::after {
+/*h1::after {
   content: '';
   width: 80px;
   display: block;
@@ -96,7 +96,7 @@ h1::after {
   height: 10px;
   margin: 30px auto;
   line-height: 1.1;
-}
+}*/
 p {
   margin: 0 0 30px 0;
   font-size: 24px;
